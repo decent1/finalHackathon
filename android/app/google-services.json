@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4136910079",
+    "project_id": "crshackathon",
+    "storage_bucket": "crshackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4136910079:android:6917b9e5d2d5d55e3420ca",
+        "android_client_info": {
+          "package_name": "com.finalhackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4136910079-0bsome2et1gr9bp77eundhfjh23olo2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKI-Dt308NtVZsFFyXXLkdAFR-yfDLSeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4136910079-0bsome2et1gr9bp77eundhfjh23olo2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
